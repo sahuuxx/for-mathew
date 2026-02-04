@@ -2,7 +2,7 @@ let opened = new Set();
 
 const letters = {
   1: {
-    text: "Loving you has felt so so peaceful. It's like realizing I don’t have to rush or prove or explain — I can just be, and you stay.",
+    text: "Loving you has felt so so peaceful",
   },
   2: {
     text: "When I look at you I know you're the person I will always choose and always come back to
@@ -14,7 +14,7 @@ const letters = {
     text: "Every version of me has felt safer since you arrived. That’s something I’ll always thank you for.",
   },
   final: {
-    text: "If love is the quiet way we show we care — then this is me, showing you. Still. Every day.",
+    text: "If love is the quiet way we show we care, then this is me showing you",
   }
 };
 

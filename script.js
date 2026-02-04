@@ -2,7 +2,7 @@ let opened = new Set();
 
 const letters = {
   1: {
-    text: "Loving you has felt so so peaceful",
+    text: "Loving you has felt so so peaceful, like every worry melts away when I’m with you (most times)",
   },
   2: {
     text: "When I look at you I know you're the person I will always choose and always come back to
